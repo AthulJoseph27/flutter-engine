@@ -420,3 +420,4 @@ base class RenderPass extends NativeFieldWrapperClass1 {
       symbol: 'InternalFlutterGpu_RenderPass_Draw')
   external bool _draw();
 }
+
